@@ -1,0 +1,66 @@
+.main{
+    border: 2px solid rgb(29, 26, 221) ; 
+    width: 320px;
+    margin: 0 auto ;
+    
+}
+
+.result{
+    width:98%;
+    background-color: greenyellow;
+    color: black;
+    margin-top: 7px;
+    height: 50px;
+    font-size: 50px ;
+    border-radius: 100px 100px;
+
+}
+.clearBtn:hover{
+    background-color: rgb(240, 221, 221)
+}
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: white;
+    height: 30px;
+    font-size: 20px ;
+    
+    border: 2px solid rgb(29, 26, 221) ; 
+   
+}
+.btn:hover{
+    background-color:rgb(29, 26, 221) 
+}
+.btn{
+    font-size: 20px ;
+    background-color: grey;
+    width:70px;
+    margin: 1px;
+    background-color: white;
+    height: 60px;
+    display: center;
+    /* margin-left: 1px; */
+    margin-right: 5px;
+    
+    border: 2px solid rgb(29, 26, 221) ; 
+   
+   
+
+}
+.halfBtn{
+    margin-right: 5px;
+    font-size: 20px ;
+
+    background-color: grey;
+    width: 148px;
+    margin-top: 5px;
+    background-color: white;
+    height: 30px;
+    
+    border: 2px solid rgb(29, 26, 221) ; 
+    
+
+}
+.halfBtn:hover{
+    background-color:rgb(29, 26, 221) 
+}
